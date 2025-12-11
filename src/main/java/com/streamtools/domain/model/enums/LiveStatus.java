@@ -5,5 +5,4 @@ public enum LiveStatus {
     LIVE,
     COMPLETED,
     CANCELED
-
 }
